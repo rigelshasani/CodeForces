@@ -2,6 +2,15 @@
 using namespace std;
 
 int main(){
-    //solution
-    cout << "Hello World" << endl;
+    int c;
+    cin >> c;
+    if(c==2){
+        cout<<"NO";
+    }
+    else if(c%2==0){
+        cout << "YES";
+    }
+    else{
+        cout << "NO";
+    }
 }
