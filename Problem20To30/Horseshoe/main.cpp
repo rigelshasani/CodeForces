@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/228/A
 #include <iostream>
 #include <vector>
 #include <unordered_set>
@@ -13,7 +14,7 @@ int main(){
     unique.insert(b);
     unique.insert(c);
     unique.insert(d);
-    
+
     if(unique.size() == 4){
         cout << 0;
     }
