@@ -1,4 +1,4 @@
 # CodeForces
 
 >In this repository I keep track of solved CodeForces problems. <br>
-***Problem count: 31***
+***Problem count: 35***
